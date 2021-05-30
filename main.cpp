@@ -7,7 +7,8 @@ int main(){
 
      cout << "Give me two integers:" << endl;
      cin >> a >> b;
-     calculator(a,b);
+     cout << calculator(a,b);
+     
 
 }
 int calculator(int a, int b){
@@ -19,15 +20,15 @@ int calculator(int a, int b){
           result = a+b;
           return result; 
      }
-     if (s == 'm'){
+     else if (s == 'm'){
           result = a-b;
           return result; 
      }
-     if (s == 'a'){
+     else if (s == 'a'){
           result = a*b;
           return result;
      }
-     if (s == 'd'){
+     else if (s == 'd'){
           result = a/b;
           return result;
           
