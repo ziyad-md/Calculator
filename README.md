@@ -1,3 +1,3 @@
 # Calculator
-## I made a calculator in c++
+## I made an calculator in c++
 Hope you will enjoy!!
