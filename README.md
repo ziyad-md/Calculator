@@ -1,2 +1,3 @@
 # Calculator
- It is a ordinary calculator
+## I made a calculator in c++
+Hope you will enjoy!!
